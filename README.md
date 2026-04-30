@@ -1,6 +1,6 @@
 # Super Friday Chart Exporter
 
-A lightweight Python script that exports the full current chart from [superfridaychart.com](https://www.superfridaychart.com) across every paginated page, then writes results to text files.
+A lightweight Python script that exports the full current chart from <a href="https://www.superfridaychart.com" target="_blank" rel="noopener noreferrer">superfridaychart.com</a> across every paginated page, then writes results to text files.
 
 ## What It Does
 
